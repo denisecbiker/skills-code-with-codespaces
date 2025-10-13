@@ -26,7 +26,9 @@ This tool will analyze your repository and tell you:
 - ✅ Whether your project uses React
 - ℹ️ How these technologies might be integrated
 
-For more details, see [TECH_STACK_DETECTION.md](TECH_STACK_DETECTION.md).
+**Documentation:**
+- [Usage Examples](USAGE_EXAMPLES.md) - See example outputs and how to interpret them
+- [Complete Guide](TECH_STACK_DETECTION.md) - Detailed documentation and manual detection methods
 
 ---
 
